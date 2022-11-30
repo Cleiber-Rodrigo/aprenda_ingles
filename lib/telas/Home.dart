@@ -31,6 +31,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Color(0xff795548),
         title: Text("Aprenda inglês"),
         bottom: TabBar(
           indicatorWeight: 4,   //Muda a altura da barra abaixo da aba selecionada
