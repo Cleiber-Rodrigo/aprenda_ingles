@@ -2,6 +2,7 @@ import 'package:aprenda_ingles/telas/Bichos.dart';
 import 'package:aprenda_ingles/telas/Numeros.dart';
 import 'package:aprenda_ingles/telas/Vogais.dart';
 import 'package:flutter/material.dart';
+import 'package:audioplayers/audioplayers.dart';
 
 class Home extends StatefulWidget {
   @override
